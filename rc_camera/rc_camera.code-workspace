@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"ros.distro": "foxy",
+		"python.autoComplete.extraPaths": [
+			"/home/hwi/gcamp_ros2_ws/install/turtlesim/lib/python3.8/site-packages",
+			"/home/hwi/gcamp_ros2_ws/build/py_topic_pkg",
+			"/home/hwi/gcamp_ros2_ws/install/py_topic_pkg/lib/python3.8/site-packages",
+			"/opt/ros/foxy/lib/python3.8/site-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/hwi/gcamp_ros2_ws/install/turtlesim/lib/python3.8/site-packages",
+			"/home/hwi/gcamp_ros2_ws/build/py_topic_pkg",
+			"/home/hwi/gcamp_ros2_ws/install/py_topic_pkg/lib/python3.8/site-packages",
+			"/opt/ros/foxy/lib/python3.8/site-packages"
+		]
+	}
+}
